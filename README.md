@@ -3,14 +3,6 @@
 
 [English](README_EN.md) | 简体中文
 
-<div style="text-align: center;">
-  <a href="https://www.duckip.cn/?keyword=kr0nkwvs" target="_blank">
-    <img src="assets/dakeyun.jpg" alt="达可云DuckIP - 全球9000万住宅IP资源，提供动态住宅代理、静态住宅代理、不限量住宅代理，国家/州省/城市/ASN 多级精准定位，注册免费测试500M" width="100%">
-  </a>
-</div>
-
-> [达可云DuckIP](https://www.duckip.cn/?keyword=kr0nkwvs) - 全球9000万住宅IP资源。提供✅动态住宅代理 ✅静态住宅代理 ✅不限量住宅代理，国家、州/省、城市、ASN 多级精准定位，支持社媒养号、跨境电商、数据采集、广告投放等业务，注册免费测试500M。
-
 For updates, bug reports, and more Web3/AI tools, join our official developer community: [Telegram 社群](https://t.me/+inDiCrZ6ZeZiODQx)
 
 >⚠️ **免责声明**：本项目仅供学习和研究使用，不得用于任何商业用途。使用本项目所产生的一切后果由使用者自行承担。
